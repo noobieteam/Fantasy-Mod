@@ -11,6 +11,7 @@ The team:
 - Dayrider10
 - Cosmic_peanut123
 - and myself Fakegermano
+
 Join #noobieteam on irc.esper.net and give us a shout!
 
 Big hugs! - fake
