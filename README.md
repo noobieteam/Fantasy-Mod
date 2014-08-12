@@ -2,7 +2,8 @@ Fantasy-Mod
 ===========
 
 
-== OUTDATED!!!! GO TO github.com/noobieteam/fallacia FOR THE NEW REPO!!!!
+OUTDATED!!!! GO TO github.com/noobieteam/fallacia FOR THE NEW REPO!!!!
+======================================================================
 Here it is!
 
 This is the Mod that RedstoneSquirrel had on the Minecraft Foruns, and we, a bunch of noobs on modding decided to dive in!
